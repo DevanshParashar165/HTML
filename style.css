@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+
+.container{
+    color: aquamarine;
+    background-color: black;
+    border: green;
+    border: 2;
+    border-radius: 4;
+}
