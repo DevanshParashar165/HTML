@@ -1,7 +1,8 @@
-*{
+* {
     margin: 2;
     padding: 2;
 }
+
 body {
     background-image: url(https://motionbgs.com/media/78/astronaut-in-the-ocean.1920x1080.jpg);
     background-size: cover;
@@ -22,7 +23,7 @@ body {
     width: 50%;
 }
 
-.test{
+.test {
     border: 10px;
     border-color: rgb(130, 19, 19);
     color: white;
@@ -31,5 +32,4 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5awrRMjYQ68AihQwDAuNbPmAJC_TZ_DpS5w&s)
-     
 }
